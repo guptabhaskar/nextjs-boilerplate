@@ -32,7 +32,7 @@ Run the following command on your local environment:
 
 ```shell
 git clone https://github.com/guptabhaskar/nextjs-boilerplate
-cd boilerplate-nextjs
+cd nextjs-boilerplate
 npm install
 cp .env.local.example .env
 ```
